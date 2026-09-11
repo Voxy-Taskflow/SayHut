@@ -1,0 +1,6 @@
+{
+  "files": ["compilers-frontend/Sayhut-frontend/index.html"],
+  "insertBefore": "</head>",
+  "commentSyntax": "html",
+  "cspChecked": true
+}
